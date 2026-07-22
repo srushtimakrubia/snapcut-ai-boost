@@ -56,7 +56,7 @@ function Nav() {
         </nav>
         <div className="flex items-center gap-2">
           <a
-            href="https://github.com/snapcut-ai/snapcut-ai"
+            href="https://github.com/srushtimakrubia/snapcut-ai-boost"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center justify-center rounded-xl border border-border bg-surface p-2 text-foreground transition hover:bg-surface-muted"
